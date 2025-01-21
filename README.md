@@ -16,7 +16,4 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - **Tools and Platforms:** Git, Docker, Kubernetes, AWS
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, SQLServer
 
-## 📈 GitHub Stats
-![NoirCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=noircode&show_icons=true&theme=radical)
-
 Thank you for visiting my profile! Have a great day! 😊
