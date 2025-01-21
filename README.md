@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on exciting and challenging projects.
-- 💬 Ask me about Python, JavaScript, and web development.
+- 💬 Ask me about Python, JavaScript, Golang and web development.
 - 📫 How to reach me: [Email](simaul.noir@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aldi-maulana-2723a9233/)
 - ⚡ Fun fact: I'm also a huge fan of sci-fi novels and enjoy writing short stories in my free time.
 
