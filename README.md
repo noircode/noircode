@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - ⚡ Fun fact: I'm also a huge fan of sci-fi novels and enjoy writing short stories in my free time.
 
 ## 🚀 Skills
-- **Languages:** Python, JavaScript, Golang(Mainly)
+- **Languages:** Python, JavaScript, Golang, .Net Core
 - **Frameworks and Libraries:** React, Node.js, Django, Flask, GoFiber
 - **Tools and Platforms:** Git, Docker, Kubernetes, AWS
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, SQLServer
